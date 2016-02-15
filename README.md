@@ -1,4 +1,4 @@
-# Yokai Watch
+# Yo-kai Watch
 
 A repository of JSON formatted data representing all parts of Yokai Watch for building applications.
 

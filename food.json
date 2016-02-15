@@ -1,0 +1,115 @@
+[
+  {
+    "type": "Rice Ball",
+    "foods": [
+      "Plum rice ball",
+      "Leaf rice ball",
+      "Roe rice ball",
+      "Shrimp rice ball"
+    ],
+    "best": "Shrimp rice ball"
+  },
+  {
+    "type": "Bread",
+    "foods": [
+      "Sandwich",
+      "Custard bread",
+      "Curry bread",
+      "Baguette",
+      "Blehgel"
+    ],
+    "best": "Blehgel"
+  },
+  {
+    "type": "Candy",
+    "foods": [
+      "10-cent gum",
+      "Gooey candy",
+      "Giant cracker",
+      "Fruit drops",
+      "Shaved Ice",
+      "Candy apple"
+    ],
+    "best": "Candy apple"
+  },
+  {
+    "type": "Milk",
+    "foods": [
+      "Milk",
+      "Coffee milk",
+      "Fruit milk",
+      "Amazing milk"
+    ],
+    "best": "Amazing milk"
+  },
+  {
+    "type": "Juice",
+    "foods": [
+      "Y-cola",
+      "Soul tea",
+      "Spiritizer Y",
+      "VoltXtreme"
+    ],
+    "best": "VoltXtreme"
+  },
+  {
+    "type": "Hamburger",
+    "foods": [
+      "Hamburger",
+      "Cheeseburger",
+      "Double burger",
+      "Nom Burger"
+    ],
+    "best": "Nom Burger"
+  },
+  {
+    "type": "Ramen",
+    "foods": [
+      "Ramen cup",
+      "Pork ramen",
+      "Deluxe ramen",
+      "Everything ramen"
+    ],
+    "best": "Everything ramen"
+  },
+  {
+    "type": "Chinese Food",
+    "foods": [
+      "Pot stickers",
+      "Liver and chives",
+      "Crab omelet",
+      "Chili shrimp"
+    ],
+    "best": "Chili shrimp"
+  },
+  {
+    "type": "Vegetables",
+    "foods": [
+      "Carrot",
+      "Cucumber",
+      "Bamboo shoot",
+      "Matsutake"
+    ],
+    "best": "Matsutake"
+  },
+  {
+    "type": "Meat",
+    "foods": [
+      "Chicken thigh",
+      "Slab bacon",
+      "Beef tongue",
+      "Marbled beef"
+    ],
+    "best": "Marbled beef"
+  },
+  {
+    "type": "Seafood",
+    "foods": [
+      "Dried mackerel",
+      "Yellowtail",
+      "Fresh urchin",
+      "Choice Tuna"
+    ],
+    "best": "Choice Tuna"
+  }
+]
